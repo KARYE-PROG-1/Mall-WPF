@@ -48,4 +48,5 @@
         "ms-dotnettools.vscodeintellicode-csharp": false,
         "GitHub.copilot": false
   },
+    "dotnet.server.useOmnisharp": true,
 }
